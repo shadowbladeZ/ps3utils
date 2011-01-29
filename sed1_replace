@@ -1,0 +1,12 @@
+src="sel://localhost/welcome?type=game"
+ 				/>
+ 
+ 			<Query
+ 				class="type:x-xmb/folder-pixmap"
+ 				key="seg_gamedebug"
+ 				src="#seg_gamedebug"
+ 				/>
+ 			<Query
+ 				class="type:x-xmb/folder-pixmap"
+ 				key="seg_package_files"
+ 				src="#seg_package_files"
